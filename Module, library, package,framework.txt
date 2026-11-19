@@ -1,0 +1,15 @@
+• Module: A single file (such as a .py file) containing code, functions, or classes.
+• Package: A collection or directory of related modules.
+• Library: A collection of related packages and modules that can be reused across programs.
+• Framework: A collection of libraries that provides a structural architecture and set of rules for building applications.
+
+
+
+Purpose of creating the framework
+-----------------------------------
+
+1) Re-usability.
+2) Maintainability.
+
+Things need to do the framework.
+--------------------------------
